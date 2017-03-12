@@ -24,12 +24,6 @@ int sum(int *array, int *len)
 
 int main()
 {
-    /**
-     * Author: Joel Wachsler
-     * Date: 2015-07-15
-     * Desc: Spotify Connect in C
-     **/
-
     int switches;
     scanf("%d", &switches);
 
