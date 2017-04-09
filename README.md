@@ -1,8 +1,8 @@
 # Kattis problems
-My solutions for some programming problems found at - po.kattis.com - written in:<br>
+My solutions for some programming problems, found at po.kattis.com, written in the following languages:<br>
 <ul>
-  <li><b>Python 2/3</b><br></li>
-  <li><b>C++</b><br></li>
-  <li><b>C</b><br></li>
-  <li><b>Go</b><br></li>
+  <li>Python 2/3<br></li>
+  <li>C++</li>
+  <li>C</li>
+  <li>Go</li>
 </ul>
