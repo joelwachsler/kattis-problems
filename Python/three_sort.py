@@ -6,7 +6,7 @@ def main():
     for i in range(3):
         tokens[i] = int(tokens[i])
 
-    # Bubble sort dat shit
+    # Bubble sort
     for p in range(2):
         for i in range(2):
             if tokens[i+1] <= tokens[i]:
