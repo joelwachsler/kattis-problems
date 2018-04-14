@@ -5,4 +5,5 @@ My solutions for some programming problems, found at po.kattis.com, written in t
   <li>C++</li>
   <li>C</li>
   <li>Go</li>
+  <li>Haskell</li>
 </ul>
